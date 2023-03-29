@@ -3,11 +3,11 @@ package Fatihs;
 public class FatihPractise {
     public static void main(String[] args) {
       //  Deneme deneme =new deneme();
-        FatihPractise deneme2 = new FatihPractise();
+        deneme();
 
     }
 
-    public void deneme(){
+    public static void deneme(){
         System.out.println("hello world");
     }
     public void deneme2(){
